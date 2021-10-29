@@ -16,3 +16,4 @@ print(response_list)
 #         'statusCode': 200,
 #         'body': json.dumps('Hello Lambda!')
 #     }
+# 잠시 패스
