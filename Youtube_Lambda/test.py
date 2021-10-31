@@ -17,3 +17,4 @@ print(response_list)
 #         'body': json.dumps('Hello Lambda!')
 #     }
 # 잠시 패스
+# 잠시 패스
